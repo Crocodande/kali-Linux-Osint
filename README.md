@@ -6,4 +6,4 @@
 # Osint
 # Documentação de Osint 
 # scripts 
-# Configurações
+# ConfiguraçõeS
