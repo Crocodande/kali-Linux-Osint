@@ -4,7 +4,7 @@
  github
  git 
  osint
- cyber security
+ cybersecurity
  scripts 
  documentation
- ethical hacking
+ ethical-hacking
