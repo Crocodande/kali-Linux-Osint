@@ -1,10 +1,10 @@
- kali-linux
- linux
- python
+ kali-linux→ ambiente principal
+ linux→ área de estudo
+ python/ Scripts → automação e ferramentas
  github
- git 
+ git → controle e compartilhamento do projeto
  osint
- cybersecurity
+ cybersecurity/ Ethical Hacking → contexto de segurança
  scripts 
- documentation
+ documentation→ objetivo de registrar conhecimento
  ethical-hacking
