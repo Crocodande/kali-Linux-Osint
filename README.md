@@ -1,9 +1,10 @@
-# kali-Linux-Osint
-# Linux
-# Python
-# Github
-# Git 
-# Osint
-# Documentação de Osint 
-# scripts 
-# ConfiguraçõeS
+ kali-linux
+ linux
+ python
+ github
+ git 
+ osint
+ cyber security
+ scripts 
+ documentation
+ ethical hacking
