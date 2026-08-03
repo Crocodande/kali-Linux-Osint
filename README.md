@@ -1,6 +1,6 @@
 # 🐉 Kali Linux OSINT
 
-# 📌 Sobre o Projeto
+## 📌 Sobre o Projeto
 
 O **Kali Linux OSINT** é um projeto dedicado ao estudo e documentação de ferramentas de Inteligência de Fontes Abertas (OSINT - Open Source Intelligence), utilizando o ambiente Kali Linux.
 
