@@ -19,3 +19,23 @@ O objetivo é reunir conhecimentos, scripts, configurações e documentação pa
 ## ⚠️ Aviso de Uso Ético
 
 Este projeto tem finalidade exclusivamente educacional. As ferramentas e técnicas apresentadas devem ser utilizadas somente em ambientes autorizados e de acordo com as leis aplicáveis.
+
+## 📂 Estrutura do Repositório
+
+```text
+kali-Linux-Osint/
+├── README.md
+├── tools/
+├── scripts/
+├── docs/
+├── images/
+└── resources/
+```
+
+### Descrição
+
+- **tools/** → documentação das ferramentas OSINT.
+- **scripts/** → scripts desenvolvidos em Python e Shell.
+- **docs/** → guias, tutoriais e anotações.
+- **images/** → capturas de tela e diagramas.
+- **resources/** → materiais de referência e links úteis.
