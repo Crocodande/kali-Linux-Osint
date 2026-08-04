@@ -1,0 +1,87 @@
+# Sherlock
+
+## Descrição
+
+O Sherlock é uma ferramenta de Open Source Intelligence (OSINT) desenvolvida para localizar um mesmo nome de usuário em centenas de sites e redes sociais.
+
+É amplamente utilizada por profissionais de segurança da informação, investigadores, analistas de inteligência e pesquisadores para identificar a presença digital de um usuário.
+
+## Principais Recursos
+
+- Pesquisa em centenas de plataformas.
+- Código aberto (Open Source).
+- Fácil instalação.
+- Compatível com Linux, Windows e macOS.
+- Exportação dos resultados.
+
+## Requisitos
+
+- Python 3
+- Git
+- pip
+
+## Instalação
+
+Clone o repositório oficial:
+
+```bash
+git clone https://github.com/sherlock-project/sherlock.git
+```
+
+Entre na pasta:
+
+```bash
+cd sherlock
+```
+
+Instale as dependências:
+
+```bash
+python3 -m pip install -r requirements.txt
+```
+
+## Utilização
+
+Pesquisar um usuário:
+
+```bash
+python3 sherlock.py usuario
+```
+
+Pesquisar vários usuários:
+
+```bash
+python3 sherlock.py usuario1 usuario2 usuario3
+```
+
+Salvar os resultados em um arquivo:
+
+```bash
+python3 sherlock.py usuario --output resultado.txt
+```
+
+## Exemplos
+
+Pesquisar o usuário "john":
+
+```bash
+python3 sherlock.py john
+```
+
+## Aplicações
+
+- Investigações OSINT.
+- Descoberta de perfis públicos.
+- Verificação de identidade digital.
+- Coleta de informações públicas.
+- Apoio a pesquisas de segurança da informação.
+
+## Limitações
+
+- Alguns sites podem bloquear consultas automáticas.
+- Resultados dependem da existência do nome de usuário pesquisado.
+- Mudanças nas plataformas podem afetar a precisão.
+
+## Referência Oficial
+
+https://github.com/sherlock-project/sherlock
