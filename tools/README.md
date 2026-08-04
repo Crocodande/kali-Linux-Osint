@@ -1,20 +1,6 @@
-# Ferramentas OSINT
-
-Esta pasta reúne a documentação das ferramentas de Open Source Intelligence (OSINT) utilizadas neste projeto.
-
-## Objetivo
-
-Documentar cada ferramenta com:
-
-- Descrição
-- Instalação
-- Utilização
-- Exemplos práticos
-- Referências oficiais
-
 ## Ferramentas
 
-- Sherlock
+- [Sherlock](sherlock.md)
 - ngrok
 - theHarvester
 - Holehe
@@ -22,5 +8,3 @@ Documentar cada ferramenta com:
 - Photon
 - SpiderFoot
 - Maltego
-
-> Novas ferramentas serão adicionadas à medida que o projeto evoluir.
