@@ -2,7 +2,9 @@
 
 - [Sherlock](sherlock.md)
 - ngrok
-- theHarvester
+- - [Sherlock](ferramentas/sherlock.md)
+- [theHarvester](ferramentas/theharvester.md)
+- ngrok
 - Holehe
 - Maigret
 - Photon
