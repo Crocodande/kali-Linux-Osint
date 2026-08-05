@@ -1,7 +1,5 @@
 ## Ferramentas
 
-- [Sherlock](sherlock.md)
-- ngrok
 - - [Sherlock](ferramentas/sherlock.md)
 - [theHarvester](ferramentas/theharvester.md)
 - ngrok
