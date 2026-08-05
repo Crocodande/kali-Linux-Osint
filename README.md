@@ -33,7 +33,6 @@ kali-Linux-Osint/
 ```
 
 ### Descrição
-
 - **tools/** → documentação das ferramentas OSINT.
 - **scripts/** → scripts desenvolvidos em Python e Shell.
 - **docs/** → guias, tutoriais e anotações.
