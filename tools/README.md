@@ -1,6 +1,6 @@
 ## Ferramentas
 
-- [Sherlock](...)
+- [Sherlock](sherlock.md)
 - [theHarvester](...)
 - ngrok
 - Holehe
