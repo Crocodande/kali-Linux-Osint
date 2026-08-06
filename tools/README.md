@@ -7,4 +7,4 @@
 - [Maigret](maigret.md)
 - [Photon](photon.md)
 - [SpiderFoot](spiderfoot.md)
-- Maltego
+- [Maltego](maltego.md)
