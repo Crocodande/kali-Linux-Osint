@@ -52,7 +52,6 @@ A ferramenta poderá identificar:
 ---
 
 ## ⚠️ Aviso
-
 Utilize o Photon apenas para fins educacionais, pesquisa e testes autorizados. Respeite a legislação vigente e obtenha autorização antes de realizar qualquer análise em sistemas de terceiros.
 
 ---
