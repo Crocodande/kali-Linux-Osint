@@ -3,7 +3,7 @@
 - [Sherlock](sherlock.md)
 - [theHarvester](theharvester.md)
 - ngrok
-- Holehe
+- [Holehe](holehe.md)
 - Maigret
 - Photon
 - SpiderFoot
