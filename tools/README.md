@@ -6,5 +6,5 @@
 - [Holehe](holehe.md)
 - [Maigret](maigret.md)
 - [Photon](photon.md)
-- SpiderFoot
+- [SpiderFoot](spiderfoot.md)
 - Maltego
