@@ -5,6 +5,6 @@
 - ngrok
 - [Holehe](holehe.md)
 - [Maigret](maigret.md)
-- Photon
+- [Photon](photon.md)
 - SpiderFoot
 - Maltego
