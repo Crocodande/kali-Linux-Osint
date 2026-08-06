@@ -4,7 +4,7 @@
 - [theHarvester](theharvester.md)
 - ngrok
 - [Holehe](holehe.md)
-- Maigret
+- [Maigret](maigret.md)
 - Photon
 - SpiderFoot
 - Maltego
