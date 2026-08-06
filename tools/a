@@ -81,7 +81,6 @@ python3 sherlock.py john
 - Alguns sites podem bloquear consultas automáticas.
 - Resultados dependem da existência do nome de usuário pesquisado.
 - Mudanças nas plataformas podem afetar a precisão.
-
 ## Referência Oficial
 
 https://github.com/sherlock-project/sherlock
