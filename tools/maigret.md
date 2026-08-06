@@ -51,7 +51,6 @@ maigret crocodande
 ## ⚠️ Aviso
 
 Utilize a ferramenta apenas em ambientes autorizados e para fins educacionais ou de investigação ética.
-
 ---
 
 ## 🔗 Repositório Oficial
