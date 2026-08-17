@@ -15,3 +15,16 @@ Exemplo: pwd
 Lista os arquivos e diretórios do local atual.
 
 Exemplo: ls
+
+
+### cd
+
+Muda para outro diretório.
+
+Exemplo: cd ~/Projects/kali-Linux-Osint
+
+### cat
+
+Mostra o conteúdo de um arquivo.
+
+Exemplo: cat README.md
