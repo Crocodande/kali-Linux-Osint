@@ -36,13 +36,6 @@ Exemplo: cat README.md
 Cria um novo diretório.
 
 Exemplo: mkdir documentos
-### ls
-Lista arquivos e diretórios.
-Exemplo: ls
-
-### pwd
-Mostra o diretório atual.
-Exemplo: pwd
 
 ### grep
 Pesquisa por texto dentro de arquivos.
