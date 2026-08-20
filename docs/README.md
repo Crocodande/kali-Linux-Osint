@@ -1,5 +1,5 @@
 # Documentação - kali linux OSINT
-Esta pasta reune guias, tutoriais, anotaçẽs e procedimentos relacionados ao uso do Kali Linux e de ferramentas de OSINT
+Esta pasta reúne guias, tutoriais, anotações e procedimentos relacionados ao uso do Kali Linux e de ferramentas de OSINT
 
 ## Conteúdo
 Nesta seção serão documentados assuntos como:
