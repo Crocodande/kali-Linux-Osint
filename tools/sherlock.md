@@ -14,13 +14,13 @@ cd sherlock
 ## 🚀 Utilização
 
 ```bash
-python3 sherlock.py nome_do_usuario
+sherlock nome_do_usuario
 ```
 
 ## 📖 Exemplo
 
 ```bash
-python3 sherlock.py crocodande
+sherlock crocodande
 ```
 
 ## 🔗 Repositório Oficial
