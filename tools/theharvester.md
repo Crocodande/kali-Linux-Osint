@@ -33,13 +33,13 @@ theHarvester --help
 ## ▶️ Exemplo de uso
 
 ```bash
-theHarvester -d exemplo.com -b all
+theHarvester -d example.com -b crtsh,certspotter
 ```
 
 ### Parâmetros
 
 - `-d` → Domínio a ser pesquisado.
-- `-b` → Fonte de busca (`all` consulta todas as fontes disponíveis).
+- `-b` → Fonte(s) de busca utilizadas na consulta.
 
 ---
 
