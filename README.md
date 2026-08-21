@@ -10,7 +10,6 @@ O objetivo é reunir conhecimentos, scripts, configurações e documentação pa
 
 - 🐉 **Kali Linux** → ambiente principal para estudos e testes.
 - 🐧 **Linux** → área de estudo e base das ferramentas utilizadas.
-- 🐍 **Python / Scripts** → automação de tarefas e desenvolvimento de ferramentas.
 - 🐙 **Git e GitHub** → controle de versão, organização e compartilhamento do projeto.
 - 🔎 **OSINT** → coleta e análise de informações de fontes abertas.
 - 🛡️ **Cybersecurity / Ethical Hacking** → contexto de segurança da informação e aprendizado ético.
