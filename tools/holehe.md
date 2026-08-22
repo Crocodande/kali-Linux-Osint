@@ -22,12 +22,11 @@ git clone https://github.com/megadose/holehe.git
 cd holehe
 ```
 
-### Instalar as dependências
+### Instalar com pipx
 
 ```bash
-python3 -m pip install -r requirements.txt
+pipx install holehe
 ```
-
 ---
 
 ## ▶️ Exemplo de uso
@@ -41,6 +40,12 @@ holehe email@exemplo.com
 ## 📖 Exemplo de saída
 
 A ferramenta informará em quais serviços o endereço de e-mail foi encontrado, indicando os provedores onde existe um cadastro associado ao e-mail informado.
+
+### Significado dos resultados
+
+- `[+]` → E-mail identificado como utilizado no serviço.
+- `[-]` → E-mail não identificado como utilizado no serviço.
+- `[x]` → A consulta encontrou um limite de requisições (rate limit).
 
 ---
 
