@@ -10,32 +10,24 @@ Ela utiliza diversas fontes públicas para gerar um relatório detalhado de reco
 
 ## 🚀 Instalação
 
-Clone o repositório oficial:
+Instalação pelo repositório do Kali:
 
 ```bash
-git clone https://github.com/smicallef/spiderfoot.git
+sudo apt update
 ```
 
-Entre na pasta:
 
 ```bash
-cd spiderfoot
-```
-
-Instale as dependências:
-
-```bash
-pip install -r requirements.txt
+sudo apt install spiderfoot
 ```
 
 ---
 
 ## ▶️ Utilização
 
-Execute a ferramenta:
 
 ```bash
-python3 sf.py
+spiderfoot -l 127.0.0.1:5001
 ```
 
 Depois acesse no navegador:
