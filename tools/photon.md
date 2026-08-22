@@ -25,9 +25,14 @@ cd Photon
 ### Instalar as dependências
 
 ```bash
+python3 -m venv ~/venvs/photon
+```
+```bash
+source ~/venvs/photon/bin/activate
+```
+```bash
 pip install -r requirements.txt
 ```
-
 ---
 
 ## ▶️ Exemplo de uso
