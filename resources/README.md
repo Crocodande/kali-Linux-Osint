@@ -19,3 +19,7 @@ Esta seção reúne recursos e referências úteis para estudos de OSINT, Linux,
 ## 🛠️ Ferramentas OSINT
 
 - Documentação e referências das ferramentas OSINT utilizadas neste projeto.
+
+## 🔗 Referências
+
+- Documentação oficial do Git: https://git-scm.com/doc
