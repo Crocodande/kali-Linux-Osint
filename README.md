@@ -27,9 +27,11 @@ kali-Linux-Osint/
 ├── tools/
 ├── scripts/
 ├── docs/
+└── resources/
 ```
 
 ### Descrição
 - **tools/** → documentação das ferramentas OSINT.
 - **scripts/** → scripts desenvolvidos em Shell.
 - **docs/** → guias, tutoriais e anotações.
+- **resources/** → referências e materiais de apoio para estudos.
