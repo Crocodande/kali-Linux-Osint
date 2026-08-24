@@ -106,3 +106,19 @@ python3 sf.py -s exemplo.com
 - `-s exemplo.com` — define o domínio ou alvo que será analisado.
 
 O resultado reúne informações públicas encontradas sobre o alvo a partir dos módulos e fontes utilizados pelo SpiderFoot.
+
+## 7. Maltego
+
+Ferramenta utilizada para realizar investigações e análise de relacionamentos entre pessoas, organizações, domínios, endereços IP e outras informações públicas.
+
+### Comando básico
+maltego
+
+### Exemplo
+maltego
+
+### Entendendo o comando
+
+- `maltego` — inicia o aplicativo Maltego.
+
+O aplicativo permite criar investigações visuais, relacionando entidades e informações coletadas por meio de diferentes fontes e transformações.
