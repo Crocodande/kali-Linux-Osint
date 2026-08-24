@@ -88,3 +88,21 @@ python3 photon.py -u https://example.com
 - `-u https://example.com` — informa a URL do site que será analisado.
 
 O resultado pode apresentar links, páginas e outros dados públicos encontrados durante a análise do site.
+
+## 6. SpiderFoot
+
+Ferramenta utilizada para automatizar a coleta de informações de fontes públicas sobre um alvo, reunindo dados de diversas fontes em uma única investigação.
+
+### Comando básico
+python3 sf.py -s exemplo.com
+
+### Exemplo
+python3 sf.py -s exemplo.com
+
+### Entendendo o comando
+
+- `python3` — executa o SpiderFoot usando o Python 3.
+- `sf.py` — é o arquivo principal do SpiderFoot que será executado.
+- `-s exemplo.com` — define o domínio ou alvo que será analisado.
+
+O resultado reúne informações públicas encontradas sobre o alvo a partir dos módulos e fontes utilizados pelo SpiderFoot.
