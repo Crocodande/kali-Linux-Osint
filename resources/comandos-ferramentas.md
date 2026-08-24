@@ -52,3 +52,21 @@ maigret joao
 - `joao` — é o nome de usuário que será pesquisado.
 
 O resultado apresenta os sites onde o nome de usuário foi encontrado ou onde existe possibilidade de correspondência.
+
+## 4. theHarvester
+
+Ferramenta utilizada para coletar informações públicas sobre um domínio, como endereços de e-mail, subdomínios e outros dados encontrados em fontes de pesquisa.
+
+### Comando básico
+theHarvester -d exemplo.com -b all
+
+### Exemplo
+theHarvester -d exemplo.com -b google
+
+### Entendendo o comando
+
+- `theHarvester` — executa a ferramenta.
+- `-d exemplo.com` — informa o domínio que será pesquisado.
+- `-b google` — define o Google como fonte de pesquisa.
+
+O resultado pode apresentar informações públicas encontradas sobre o domínio, dependendo das fontes disponíveis e dos dados indexados.
