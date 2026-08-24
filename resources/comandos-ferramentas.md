@@ -122,3 +122,21 @@ maltego
 - `maltego` — inicia o aplicativo Maltego.
 
 O aplicativo permite criar investigações visuais, relacionando entidades e informações coletadas por meio de diferentes fontes e transformações.
+
+## 8. ngrok
+
+Ferramenta utilizada para criar túneis seguros entre a internet e serviços locais, permitindo disponibilizar temporariamente um serviço local através de uma URL pública.
+
+### Comando básico
+ngrok http 8080
+
+### Exemplo
+ngrok http 3000
+
+### Entendendo o comando
+
+- `ngrok` — executa a ferramenta de túnel.
+- `http` — define o protocolo que será utilizado pelo túnel.
+- `8080` — indica a porta local que será disponibilizada através do túnel.
+
+O resultado apresenta uma URL pública que pode ser utilizada para acessar temporariamente o serviço local através da internet.
