@@ -100,3 +100,22 @@ Exemplo: git push origin main
 ### git pull
 Baixa e integra alterações do GitHub no repositório local.
 
+### git log
+Mostra o histórico de commits do repositório.
+Exemplo: git log --oneline
+
+### git show
+Mostra os detalhes de um commit específico.
+Exemplo: git show acb1a11
+
+### git diff
+Mostra as diferenças entre alterações no repositório.
+Exemplo: git diff
+
+### git ls-files
+Lista os arquivos rastreados pelo Git.
+Exemplo: git ls-files
+
+### git rev-parse
+Mostra informações sobre referências do Git, como o hash de um commit.
+Exemplo: git rev-parse HEAD
