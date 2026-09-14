@@ -119,3 +119,13 @@ Exemplo: git ls-files
 ### git rev-parse
 Mostra informações sobre referências do Git, como o hash de um commit.
 Exemplo: git rev-parse HEAD
+
+### git branch --show-current
+
+Mostra o nome da branch atual do repositório.
+Exemplo: git branch --show-current
+
+### git diff --cached
+
+Mostra as alterações que foram adicionadas à área de staging do Git.
+Exemplo: git diff --cached
